@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Developed by:</b> <a href="#">M. Sowmyapriya</a> & <a href="#">Lalitha</a>
+  <b>Developed by:</b> <a href="#">K.Lalitha</a> & <a href="#">M.Sowmya Priya</a>
 </p>
 
 <p align="center">
@@ -117,7 +117,8 @@ Provides hands-on experience with Transformer internals
 Ideal for learning, research, and portfolio showcase
 
 🌐 Connect With Authors
+K. Lalitha: Coming Soon | lalitha.koruprolu29@gmail.com
 
 M. Sowmyapriya: Coming Soon| sowmyapriya7325@gmail.com
 
-Lalitha: Coming Soon | lalitha.koruprolu29@gmail.com
+
